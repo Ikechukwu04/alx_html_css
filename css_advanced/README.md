@@ -90,9 +90,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [ikechukwu04-ikechukwugodwinokafor@gmail.com](mailto:ikechukwugodwinokafor@gmail.com)
 
-Project Link: [https://github.com/your-username/smile-school-website](https://github.com/your-username/smile-school-website)
+Project Link: [https://github.com/Ikechukwu04/alx_html_css/tree/main](https://github.com/your-ikechukwu04/smile-school-website)
 
 ---
 
