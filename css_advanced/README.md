@@ -44,7 +44,7 @@ To get a local copy up and running, follow these steps.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/smile-school-website.git
+    git clone https://https://github.com/your-ikechukwu04/smile-school-website
     ```
 
 2. Navigate to the project directory:
