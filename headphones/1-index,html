@@ -1,0 +1,29 @@
+    <section class="what-we-do">
+        <h2>What we do...</h2>
+        <div class="features">
+            <div class="feature">
+                <img src="holberton_school-icon-ic_sound" alt="sound">
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="feature">
+                <img src="holberton_school-icon-ic_video" alt="video">
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="feature">
+                <img src="holberton_school-icon-ic_music" alt="music">
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="feature">
+                <img src="holberton_school-icon-ic_hearing" alt="hearing">
+                <h3>Lorem Ipsum</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="icon-demo">
+                <div class="icon-item">
+                    <i class="holberton_school-icon>"></i>
+        </div>
+    </section>
+    

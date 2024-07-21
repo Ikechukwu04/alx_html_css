@@ -1,0 +1,43 @@
+.what-we-do {
+    padding: 5rem 2rem;
+    background-color: #fff;
+    text-align: center;
+    color: #1a1a1a;
+}
+
+.what-we-do h2 {
+    font-family: SourceSansPro;
+    font-size: 32px;
+    line-height: 37.5px;
+    text-align: center;
+    
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.feature {
+    flex: 1 1 200px;
+    max-width: 250px;
+    margin: 1rem;
+    text-align: center;
+}
+
+.feature img {
+    width: 50px;
+    margin-bottom: 1rem;
+}
+
+.feature h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.feature p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+

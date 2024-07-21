@@ -1,0 +1,55 @@
+.results {
+    text-align: center;
+    padding: 5rem 2rem;
+    background-color: #141a28;
+    color: #fff;
+}
+
+.results h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.pentagon-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+}
+
+.pentagon {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 1rem;
+}
+
+
+.pentagon:before {
+    top: -29px;
+    left: 0;
+    border-width: 0 50px 29px;
+    border-color: transparent transparent #e6004c transparent;
+}
+
+.pentagon:after {
+    bottom: -29px;
+    left: 0;
+    border-width: 29px 50px 0;
+    border-color: #e6004c transparent transparent transparent;
+}
+
+.pentagon-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: #e6004c;
+    clip-path: polygon(50% 0%, 100% 38%, 81% 100%, 19% 100%, 0% 38%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+}

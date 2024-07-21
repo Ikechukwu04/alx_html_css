@@ -1,0 +1,38 @@
+.results {
+    padding: 5rem 2rem;
+    background-image: url(assets/headphones_hero_2.jpg);
+    text-align: center;
+}
+
+.results h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.results-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    flex: 1 1 200px;
+    max-width: 200px;
+    background-color: #ff0055;
+    color: #fff;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.card p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
